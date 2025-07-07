@@ -37,4 +37,10 @@ cd 3d-portfolio
 npm install
 npm run dev
 
+🙋‍♂️ Author
+Abdifatah Faisal Yusuf
+🔗 LinkedIn
+📧 abdifatahmarketing@gmail.com
+🌍 Hargeisa, Somaliland
+
 
