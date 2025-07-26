@@ -23,6 +23,9 @@ This 3D portfolio is designed to leave a lasting impression by combining creativ
 - **Tailwind CSS** – Utility-first CSS
 - **Vite** – Fast build tool
 
+## 📸 Demo Preview
+https://3d-portfolio-woad-pi.vercel.app/
+
 ## 📸 Live Preview
 
 <img width="2652" height="1300" alt="Screenshot 2025-07-26 205031" src="https://github.com/user-attachments/assets/e73384e4-878d-4742-b1c0-f3d2ed97a813" />
