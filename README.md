@@ -25,7 +25,9 @@ This 3D portfolio is designed to leave a lasting impression by combining creativ
 
 ## 📸 Live Preview
 
-![3D Website](https://i.ibb.co/ryytGVx/Screenshot-2023-11-25-at-11-28-11-AM.png)
+<img width="2652" height="1300" alt="Screenshot 2025-07-26 205031" src="https://github.com/user-attachments/assets/e73384e4-878d-4742-b1c0-f3d2ed97a813" />
+
+
 
 ## 📁 Installation
 
